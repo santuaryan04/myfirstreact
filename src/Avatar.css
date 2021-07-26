@@ -1,0 +1,11 @@
+.avatarstyle {
+        margin: 5px;
+        background:#5eff00;
+        animation: 3s;
+}
+.avatarstyle img {
+    width: 100px;
+}
+.mainpage {
+    text-align: center;
+}
